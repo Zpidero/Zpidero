@@ -11,18 +11,6 @@ Soc un estudiant de tercer any d'Enginyeria Informàtica en la Universitat de Ll
 - 📫 Com dirigir-se a mi: lluc@vivet.cat
 - ⚡ Fun fact: Sabies que les vaques tenen millors amigues i s'estressen quan estan separades?
 
-
-
-<img src="https://i.imgur.com/ZBBpIXx.gif" width="40px">&nbsp;***Les meves estadistiques***
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zpidero)](https://github.com/ryo-ma/github-profile-trophy)
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zpidero&show_icons=true&locale=en&layout=compact" alt="Zpidero"/>
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Zpidero&show_icons=true&locale=en" alt="Zpidero" width="410" />
-</div>
-
 <img src="https://img1.picmix.com/output/stamp/thumb/0/4/2/0/1980240_a9c96.gif" width="45px">&nbsp;***Llenguatges i eines que he tocat***
 <p align="left">
 <p>
