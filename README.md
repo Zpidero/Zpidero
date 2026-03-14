@@ -5,7 +5,7 @@ Soc un estudiant de tercer any d'Enginyeria Informàtica en la Universitat de Ll
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zpidero&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/lluc-vivet-torras/))
 
 ## <img src="https://media4.giphy.com/media/PEH78X7k38x4PrL34q/giphy.gif?cid=6c09b952d4ltmbhhrqivtplyjn5hz7e2m5jehh6xj3x2iqbx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="45px">&nbsp; Coses meves...
 
