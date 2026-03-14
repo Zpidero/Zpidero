@@ -13,7 +13,7 @@ Soc un estudiant de tercer any d'Enginyeria Informàtica en la Universitat de Ll
 - 📫 Com dirigir-se a mi: lluc@vivet.cat
 - ⚡ Fun fact: Sabies que les vaques tenen millors amigues i s'estressen quan estan separades?
 
-## <img src="https://i.pinimg.com/originals/a1/f4/51/a1f45197cab3d450f32d4cfd219dc27b.gif" width="45px">&nbsp; Stadistiques
+## <img src="https://i.pinimg.com/originals/a1/f4/51/a1f45197cab3d450f32d4cfd219dc27b.gif" width="45px">&nbsp; Estadistiques
 
 <img align="right" width=200px alt="Torkoal" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aa9d2b73-a2e7-4148-b638-2b258ffe7644/dfvlwkh-c5ae2b19-8106-4d9e-a307-c9d102a5a591.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhOWQyYjczLWEyZTctNDE0OC1iNjM4LTJiMjU4ZmZlNzY0NFwvZGZ2bHdraC1jNWFlMmIxOS04MTA2LTRkOWUtYTMwNy1jOWQxMDJhNWE1OTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fanjMjubxGhgZRwxkWf75reGQoSkQrndxuSKPE8WNSo" />
 
