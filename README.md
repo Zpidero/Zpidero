@@ -9,7 +9,7 @@ Soc un estudiant de tercer any d'Enginyeria Informàtica en la Universitat de Ll
 
 ## <img src="https://media4.giphy.com/media/PEH78X7k38x4PrL34q/giphy.gif?cid=6c09b952d4ltmbhhrqivtplyjn5hz7e2m5jehh6xj3x2iqbx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="45px">&nbsp; Coses meves...
 
-- 🌱 Estic actualment aprenent Java, Python
+- 🌱 Estic actualment aprenent Python, Docker, Django i FastAPI
 - 📫 Com dirigir-se a mi: lluc@vivet.cat
 - ⚡ Fun fact: Sabies que les vaques tenen millors amigues i s'estressen quan estan separades?
 
