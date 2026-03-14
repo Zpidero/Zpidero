@@ -1,25 +1,25 @@
-## Hi there 👋
+# Hola, Soc en Lluc 👋🐢
 
 Soc un estudiant de tercer any d'Enginyeria Informàtica en la Universitat de Lleida. Apasionat per la tecnologia, em dedico a aprendre i créixer en l'àmbit de la programació i la informàtica. En el meu temps lliure, participo en hackathons
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zpidero&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zpidero&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
-<img align="right" width=200px alt="Torkoal" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aa9d2b73-a2e7-4148-b638-2b258ffe7644/dfvlwkh-c5ae2b19-8106-4d9e-a307-c9d102a5a591.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhOWQyYjczLWEyZTctNDE0OC1iNjM4LTJiMjU4ZmZlNzY0NFwvZGZ2bHdraC1jNWFlMmIxOS04MTA2LTRkOWUtYTMwNy1jOWQxMDJhNWE1OTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fanjMjubxGhgZRwxkWf75reGQoSkQrndxuSKPE8WNSo" />
-
-<img src="https://media4.giphy.com/media/PEH78X7k38x4PrL34q/giphy.gif?cid=6c09b952d4ltmbhhrqivtplyjn5hz7e2m5jehh6xj3x2iqbx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="45px">&nbsp;***Stadistiques***
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zpidero&theme=dark&hide_border=true&locale=ca&mode=weekly)](https://git.io/streak-stats)
-
-
-<img src="https://media4.giphy.com/media/PEH78X7k38x4PrL34q/giphy.gif?cid=6c09b952d4ltmbhhrqivtplyjn5hz7e2m5jehh6xj3x2iqbx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="45px">&nbsp;***Coses meves...***
+## <img src="https://media4.giphy.com/media/PEH78X7k38x4PrL34q/giphy.gif?cid=6c09b952d4ltmbhhrqivtplyjn5hz7e2m5jehh6xj3x2iqbx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="45px">&nbsp; Coses meves...
 
 - 🌱 Estic actualment aprenent Java, Python
 - 📫 Com dirigir-se a mi: lluc@vivet.cat
 - ⚡ Fun fact: Sabies que les vaques tenen millors amigues i s'estressen quan estan separades?
 
-<img src="https://img1.picmix.com/output/stamp/thumb/0/4/2/0/1980240_a9c96.gif" width="45px">&nbsp;***Llenguatges i eines que he tocat***
+## <img src="https://i.pinimg.com/originals/a1/f4/51/a1f45197cab3d450f32d4cfd219dc27b.gif" width="45px">&nbsp; Stadistiques
+
+<img align="right" width=200px alt="Torkoal" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aa9d2b73-a2e7-4148-b638-2b258ffe7644/dfvlwkh-c5ae2b19-8106-4d9e-a307-c9d102a5a591.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhOWQyYjczLWEyZTctNDE0OC1iNjM4LTJiMjU4ZmZlNzY0NFwvZGZ2bHdraC1jNWFlMmIxOS04MTA2LTRkOWUtYTMwNy1jOWQxMDJhNWE1OTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fanjMjubxGhgZRwxkWf75reGQoSkQrndxuSKPE8WNSo" />
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Zpidero&theme=gruvbox-duo&hide_border=true&locale=ca&mode=weekly" alt="GitHub Streak" /></a>
+
+## <img src="https://img1.picmix.com/output/stamp/thumb/0/4/2/0/1980240_a9c96.gif" width="45px">&nbsp; Llenguatges i eines que he tocat 
 <p align="left">
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
@@ -45,5 +45,6 @@ Soc un estudiant de tercer any d'Enginyeria Informàtica en la Universitat de Ll
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>          
