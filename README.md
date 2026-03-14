@@ -2,8 +2,16 @@
 
 Soc un estudiant de tercer any d'Enginyeria Informàtica en la Universitat de Lleida. Apasionat per la tecnologia, em dedico a aprendre i créixer en l'àmbit de la programació i la informàtica. En el meu temps lliure, participo en hackathons
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zpidero&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 <img align="right" width=200px alt="Torkoal" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aa9d2b73-a2e7-4148-b638-2b258ffe7644/dfvlwkh-c5ae2b19-8106-4d9e-a307-c9d102a5a591.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhOWQyYjczLWEyZTctNDE0OC1iNjM4LTJiMjU4ZmZlNzY0NFwvZGZ2bHdraC1jNWFlMmIxOS04MTA2LTRkOWUtYTMwNy1jOWQxMDJhNWE1OTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fanjMjubxGhgZRwxkWf75reGQoSkQrndxuSKPE8WNSo" />
+
+<img src="https://media4.giphy.com/media/PEH78X7k38x4PrL34q/giphy.gif?cid=6c09b952d4ltmbhhrqivtplyjn5hz7e2m5jehh6xj3x2iqbx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="45px">&nbsp;***Stadistiques***
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zpidero&theme=dark&hide_border=true&locale=ca&mode=weekly)](https://git.io/streak-stats)
+
 
 <img src="https://media4.giphy.com/media/PEH78X7k38x4PrL34q/giphy.gif?cid=6c09b952d4ltmbhhrqivtplyjn5hz7e2m5jehh6xj3x2iqbx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="45px">&nbsp;***Coses meves...***
 
