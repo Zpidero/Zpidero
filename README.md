@@ -1,4 +1,8 @@
-# Hola, Soc en Lluc 👋🐢
+<div align="center">
+<img src= "https://i.pinimg.com/originals/f3/eb/d9/f3ebd9324d5a75c7378fd3e3b8f39c4f.gif" width="70"px />
+          
+# Hola, Soc en Lluc
+</div>
 
 Soc un estudiant de tercer any d'Enginyeria Informàtica en la Universitat de Lleida. Apasionat per la tecnologia, em dedico a aprendre i créixer en l'àmbit de la programació i la informàtica. En el meu temps lliure, participo en hackathons
 
