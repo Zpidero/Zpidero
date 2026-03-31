@@ -2,7 +2,7 @@
 
 # Lluc Vivet Torras
 
-**Computer Engineering Student · Universitat de Lleida**
+**Computer Science Student · Universitat de Lleida**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lluc-vivet-torras/)
 [![Email](https://img.shields.io/badge/Email-lluc%40vivet.cat-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lluc@vivet.cat)
@@ -14,9 +14,9 @@
 
 ## About Me
 
-I'm a third-year Computer Engineering student passionate about software development and systems design. I enjoy building things from scratch, exploring new technologies, and collaborating with others — including through hackathons.
+I'm a third-year Computer Science student passionate about software development and systems design. I enjoy building things from scratch, exploring new technologies, and collaborating with others — including through hackathons.
 
-- 🎓 **Universitat de Lleida** — B.Sc. Computer Engineering (3rd year)
+- 🎓 **Universitat de Lleida** — B.Sc. Computer Science (3rd year)
 - 🌱 Currently deepening my knowledge in **Python, Docker, Django & FastAPI**
 - 🤝 Open to collaboration on interesting projects
 
